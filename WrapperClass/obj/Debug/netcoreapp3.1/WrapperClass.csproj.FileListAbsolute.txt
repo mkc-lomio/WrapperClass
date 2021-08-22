@@ -1,0 +1,14 @@
+C:\Users\mlomio\source\repos\WrapperClass\WrapperClass\bin\Debug\netcoreapp3.1\WrapperClass.exe
+C:\Users\mlomio\source\repos\WrapperClass\WrapperClass\bin\Debug\netcoreapp3.1\WrapperClass.deps.json
+C:\Users\mlomio\source\repos\WrapperClass\WrapperClass\bin\Debug\netcoreapp3.1\WrapperClass.runtimeconfig.json
+C:\Users\mlomio\source\repos\WrapperClass\WrapperClass\bin\Debug\netcoreapp3.1\WrapperClass.runtimeconfig.dev.json
+C:\Users\mlomio\source\repos\WrapperClass\WrapperClass\bin\Debug\netcoreapp3.1\WrapperClass.dll
+C:\Users\mlomio\source\repos\WrapperClass\WrapperClass\bin\Debug\netcoreapp3.1\WrapperClass.pdb
+C:\Users\mlomio\source\repos\WrapperClass\WrapperClass\obj\Debug\netcoreapp3.1\WrapperClass.csproj.AssemblyReference.cache
+C:\Users\mlomio\source\repos\WrapperClass\WrapperClass\obj\Debug\netcoreapp3.1\WrapperClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlomio\source\repos\WrapperClass\WrapperClass\obj\Debug\netcoreapp3.1\WrapperClass.AssemblyInfoInputs.cache
+C:\Users\mlomio\source\repos\WrapperClass\WrapperClass\obj\Debug\netcoreapp3.1\WrapperClass.AssemblyInfo.cs
+C:\Users\mlomio\source\repos\WrapperClass\WrapperClass\obj\Debug\netcoreapp3.1\WrapperClass.csproj.CoreCompileInputs.cache
+C:\Users\mlomio\source\repos\WrapperClass\WrapperClass\obj\Debug\netcoreapp3.1\WrapperClass.dll
+C:\Users\mlomio\source\repos\WrapperClass\WrapperClass\obj\Debug\netcoreapp3.1\WrapperClass.pdb
+C:\Users\mlomio\source\repos\WrapperClass\WrapperClass\obj\Debug\netcoreapp3.1\WrapperClass.genruntimeconfig.cache
